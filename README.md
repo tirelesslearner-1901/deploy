@@ -4,4 +4,4 @@
 * resnet_model.h5 is required to run streamlit web app
 ## Screenshot
 
-![image](/static/Output_screenshot.png)
+![image](./static/Output_screenshot.png)
